@@ -24,25 +24,13 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Beniamin's Website
   description: "Beniamin Demeter's Personal Website. Here you can find my blog, portfolio and other projects."
-  keywords: [Blog, Portfolio, PaperMod, Computer Science, Software Engineering, Web Development, Beniamin Demeter]
   author: Beniamin Demeter
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -51,7 +39,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "pepsi.png"
+    favicon: "logo.png"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -59,12 +47,12 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: me.jpg
+    iconHeight: 30
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: true
     title: Beniamin Demeter
     subtitle: Computer Science Student
     imageUrl: "me.jpg"
@@ -78,12 +66,6 @@ params:
         url: projects
       - name: About
         url: about
-
-  # home-info mode
-  homeInfoParams:
-    enabled: false # needs to be explicitly set
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
 
   socialIcons:
     - name: linkedin
@@ -100,9 +82,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
   # for search
   # https://fusejs.io/api/options.html
@@ -121,25 +103,25 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
     - identifier: about
       name: About
       url: /about/
       weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
+    anchorLineNos: true
+    codeFences: true
     guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    lineNos: true
+    style: monokai

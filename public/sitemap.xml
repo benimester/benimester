@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://benimester.github.io/</loc>
-    <lastmod>2024-12-19T17:25:48+02:00</lastmod>
+    <lastmod>2024-12-19T18:39:45+02:00</lastmod>
+  </url><url>
+    <loc>https://benimester.github.io/posts/helloworldpython/</loc>
+    <lastmod>2024-12-19T18:39:45+02:00</lastmod>
+  </url><url>
+    <loc>https://benimester.github.io/posts/</loc>
+    <lastmod>2024-12-19T18:39:45+02:00</lastmod>
   </url><url>
     <loc>https://benimester.github.io/contact/</loc>
     <lastmod>2024-12-19T17:25:48+02:00</lastmod>
@@ -15,9 +21,6 @@
     <lastmod>2024-12-19T17:15:20+02:00</lastmod>
   </url><url>
     <loc>https://benimester.github.io/posts/my-first-post/</loc>
-    <lastmod>2024-12-19T16:01:14+02:00</lastmod>
-  </url><url>
-    <loc>https://benimester.github.io/posts/</loc>
     <lastmod>2024-12-19T16:01:14+02:00</lastmod>
   </url><url>
     <loc>https://benimester.github.io/categories/</loc>
