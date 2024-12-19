@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://benimester.github.io/sitemap.xml
