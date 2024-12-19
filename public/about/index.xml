@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Beniamin&#39;s Website</title>
-    <link>https://benimester.github.io/</link>
-    <description>Recent content on Beniamin&#39;s Website</description>
+    <title>Abouts on Beniamin&#39;s Website</title>
+    <link>https://benimester.github.io/about/</link>
+    <description>Recent content in Abouts on Beniamin&#39;s Website</description>
     <image>
       <title>Beniamin&#39;s Website</title>
       <url>https://benimester.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,21 +12,13 @@
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Dec 2024 17:15:20 +0200</lastBuildDate>
-    <atom:link href="https://benimester.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benimester.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://benimester.github.io/about/about/</link>
       <pubDate>Thu, 19 Dec 2024 17:15:20 +0200</pubDate>
       <guid>https://benimester.github.io/about/about/</guid>
       <description>&lt;h1 id=&#34;this-is-my-website&#34;&gt;This is my website!&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://benimester.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 19 Dec 2024 16:01:14 +0200</pubDate>
-      <guid>https://benimester.github.io/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-website&#34;&gt;This is my website!&lt;/h1&gt;
-&lt;h1 id=&#34;hello-gus-this-is-my-first-post-i-think&#34;&gt;Hello gus this is my first post I think.&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
