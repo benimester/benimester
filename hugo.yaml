@@ -2,7 +2,7 @@ baseURL: https://benimester.github.io/
 languageCode: en-us
 title: Beniamin Demeter's Website
 publishDir: "docs"
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
