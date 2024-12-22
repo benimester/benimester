@@ -5,6 +5,7 @@ publishDir: "public"
 pagination.pagerSize: 5
 theme: PaperMod
 
+enableEmoji: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -18,10 +19,10 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # necessary for search
+    - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: Beniamin's Website
   description: "Beniamin Demeter's Personal Website. Here you can find my blog, portfolio and other projects."
   author: Beniamin Demeter

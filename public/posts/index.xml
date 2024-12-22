@@ -2,31 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Beniamin&#39;s Website</title>
-    <link>https://benimester.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Beniamin&#39;s Website</description>
     <image>
       <title>Beniamin&#39;s Website</title>
-      <url>https://benimester.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://benimester.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2024 18:39:45 +0200</lastBuildDate>
-    <atom:link href="https://benimester.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World Python</title>
-      <link>https://benimester.github.io/posts/helloworldpython/</link>
-      <pubDate>Thu, 19 Dec 2024 18:39:45 +0200</pubDate>
-      <guid>https://benimester.github.io/posts/helloworldpython/</guid>
-      <description>Simple Python code</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://benimester.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 19 Dec 2024 16:01:14 +0200</pubDate>
-      <guid>https://benimester.github.io/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-website&#34;&gt;This is my website!&lt;/h1&gt;
-&lt;h1 id=&#34;hello-gus-this-is-my-first-post-i-think&#34;&gt;Hello gus this is my first post I think.&lt;/h1&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

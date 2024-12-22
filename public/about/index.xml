@@ -11,15 +11,49 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2024 17:15:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 23:36:04 +0200</lastBuildDate>
     <atom:link href="https://benimester.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://benimester.github.io/about/about/</link>
-      <pubDate>Thu, 19 Dec 2024 17:15:20 +0200</pubDate>
-      <guid>https://benimester.github.io/about/about/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-website&#34;&gt;This is my website!&lt;/h1&gt;
-&lt;p&gt;hello&lt;/p&gt;</description>
+      <title>CV - Curriculum Vitae</title>
+      <link>https://benimester.github.io/about/cv/</link>
+      <pubDate>Thu, 19 Dec 2024 23:36:04 +0200</pubDate>
+      <guid>https://benimester.github.io/about/cv/</guid>
+      <description>&lt;h2 id=&#34;computer-work--internship&#34;&gt;&amp;#x1f4bb; Work &amp;amp; Internship&lt;/h2&gt;
+&lt;h3 id=&#34;jul-2024---sep-2024&#34;&gt;Jul 2024 - Sep 2024&lt;/h3&gt;
+&lt;p&gt;Paid summer internship at &lt;strong&gt;Codespring Cluj-Napoca&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;relevant-coursework&#34;&gt;Relevant coursework:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Robotics&lt;/li&gt;
+&lt;li&gt;Hardware automatization&lt;/li&gt;
+&lt;li&gt;Object Detection&lt;/li&gt;
+&lt;li&gt;Rich Client Apps in React.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mortar_board-education&#34;&gt;&amp;#x1f393; Education&lt;/h2&gt;
+&lt;h3 id=&#34;sep-2022---jul-2025&#34;&gt;Sep 2022 - Jul 2025&lt;/h3&gt;
+&lt;p&gt;Bachelor in Computer Science at &lt;strong&gt;Babes-Bolyai University of Cluj-Napoca&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;relevant-coursework-1&#34;&gt;Relevant coursework:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Structures and Algorithms&lt;/li&gt;
+&lt;li&gt;Software Engeenering&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Networking&lt;/li&gt;
+&lt;li&gt;Virtualization (Docker)&lt;/li&gt;
+&lt;li&gt;Web Programming&lt;/li&gt;
+&lt;li&gt;Git &amp;amp; workflow&lt;/li&gt;
+&lt;li&gt;Operating Systems&lt;/li&gt;
+&lt;li&gt;Functional Programming&lt;/li&gt;
+&lt;li&gt;Databases&lt;/li&gt;
+&lt;li&gt;Mathematics and Statistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sep-2018---jun-2022&#34;&gt;Sep 2018 - Jun 2022&lt;/h3&gt;
+&lt;p&gt;Mathematics and Intensive Informatics at &lt;strong&gt;National Collage &lt;em&gt;Kölcsey Ferenc&lt;/em&gt;&lt;/strong&gt;, Satu Mare&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://benimester.github.io/about/general/</link>
+      <pubDate>Thu, 19 Dec 2024 23:12:44 +0200</pubDate>
+      <guid>https://benimester.github.io/about/general/</guid>
+      <description>General introduction</description>
     </item>
   </channel>
 </rss>
