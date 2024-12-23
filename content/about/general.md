@@ -35,7 +35,7 @@ In my free time, I’ve tried many activities, and some have stuck with me, such
 
 ### :coffee: Coffee
 
-{{< figure src="/about/coffee.png" alt="Brewing coffee with the new machine" width="250rem" >}}
+{{< figure src="coffee.png" alt="Brewing coffee with the new machine" width="250rem" >}}
 
 Around the time I moved to **Satu Mare** for high school, I got into coffee drinking. It was so fun to discover the diversity of flavors. My friends and I found a coffee shop we really loved. I think this played the biggest role in my love for coffee: the vibe of sipping coffee in a cozy shop on a quiet morning. If anyone visits the city, I wholeheartedly recommend **Artisan Coffee Shop**. Everything about that place made my days better.
 
@@ -43,7 +43,7 @@ When **COVID-19** hit, I ordered a used espresso machine (*DeLonghi Scultura*) t
 
 ### :video_game: Gaming
 
-{{< figure src="/about/hogwarts.jpg" alt="A screenshot from Hogwarts Legacy" width="250rem" >}}
+{{< figure src="/hogwarts.jpg" alt="A screenshot from Hogwarts Legacy" width="250rem" >}}
 
 My gaming journey began with a **Nintendo GameBoy Advanced**. The console had no backlight and was powered by two AA batteries. I had three games: *Tetris*, *FIFA 98*, and an action shooter. *Tetris* was my favorite until I got my first phone. Not because I played mobile games, but because I started watching gameplays on *YouTube*. My early favorite was *Minecraft*, and later I discovered the **TheVR** Hungarian gaming channel. I learned a lot from them—not just about games but also about the IT industry.
 
@@ -55,13 +55,13 @@ These fascinations date back to my childhood. I don’t think I need to explain 
 
 ### :mount_fuji: Hiking
 
-{{< figure src="/about/pietrosul.jpg" alt="On the top of Pietrosul Mountain" width="250rem" >}}
+{{< figure src="/static/about/pietrosul.jpg" alt="On the top of Pietrosul Mountain" width="250rem" >}}
 
 As a child, my family often took me on hiking trips and mushroom-picking adventures in the forest. Sometimes, we still venture out to find edible mushrooms. When I got older, I started organizing my own hiking trips. My most memorable achievement so far is climbing **Pietrosul Mare Mountain** in *Muntii Rodnei, Borsa*. It was an 8–9 hour trek, with the highest peak reaching **2,303 meters**. I hope I’ll remember to update this section with future adventures.
 
 ### :musical_note: Vinyl
 
-{{< figure src="/about/vinyl.png" alt="An Imagine Dragons vinyl record" width="250rem" >}}
+{{< figure src="static/about/vinyl.png" alt="An Imagine Dragons vinyl record" width="250rem" >}}
 
 I have a small collection of vinyl records. Most of them are jazz & blues EPs, '80s–'90s rock music, and **Imagine Dragons**, which is my favorite band. This hobby pairs perfectly with brewing a fresh cup of coffee in the morning.
 
