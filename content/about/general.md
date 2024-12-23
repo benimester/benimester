@@ -35,7 +35,7 @@ In my free time, I’ve tried many activities, and some have stuck with me, such
 
 ### :coffee: Coffee
 
-{{< figure src="coffee.png" alt="Brewing coffee with the new machine" width="250rem" >}}
+{{< figure src="../coffee.png" alt="Brewing coffee with the new machine" width="250rem" >}}
 
 Around the time I moved to **Satu Mare** for high school, I got into coffee drinking. It was so fun to discover the diversity of flavors. My friends and I found a coffee shop we really loved. I think this played the biggest role in my love for coffee: the vibe of sipping coffee in a cozy shop on a quiet morning. If anyone visits the city, I wholeheartedly recommend **Artisan Coffee Shop**. Everything about that place made my days better.
 
